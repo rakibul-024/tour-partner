@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/3jpg7xa5gcqn8.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"spots","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"lalbagh-fort","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"Nupp0t2mOk12123S9ZI1I"}
